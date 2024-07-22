@@ -25,6 +25,13 @@ Install required packages:
 pip3 install -r requirements.txt
 ```
 
+Optional
+```
+python -m venv .venv
+
+source .venv/bin/activate
+```
+
 **Calibration settings**
 
 The camera calibration settings first need to be configured in the ```calibration_settings.yaml``` file. 
@@ -135,3 +142,7 @@ My coding partner came looking for food. Enjoy my hamster, Milky, whose contribu
 ## Additions after Fork
 
 - added checkerboard PDF
+
+### Used mini-cam
+
+- [https://www.hbvcamera.com/1MP-%20HD-usb-cameras/hbvcam-ov9726-720p-hd-otg-free-driver-pc-webcam-camera-module.html]
