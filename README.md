@@ -141,6 +141,6 @@ My coding partner came looking for food. Enjoy my hamster, Milky, whose contribu
 - added checkerboard PDF
 - added script to list all webcams on current system
 
-### Testen Cam
+### Tested Cam
 
 - [Mini USB Cam](https://www.hbvcamera.com/1MP-%20HD-usb-cameras/hbvcam-ov9726-720p-hd-otg-free-driver-pc-webcam-camera-module.html)
