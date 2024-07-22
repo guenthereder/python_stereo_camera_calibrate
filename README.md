@@ -132,3 +132,6 @@ My coding partner came looking for food. Enjoy my hamster, Milky, whose contribu
 
 ![image](https://user-images.githubusercontent.com/36071915/175040471-e5636e11-a796-4844-a20d-8d7387332b52.png)
 
+## Additions after Fork
+
+- added checkerboard PDF
