@@ -12,7 +12,7 @@ I wrote a [blog post](https://temugeb.github.io/opencv/python/2021/02/02/stereo-
 
 Clone the repository to your PC. Then navigate to the folder in your terminal. Also print out a calibration pattern. Make sure it is as flat as you can get it. Small warps in the calibration pattern results in very poor calibration. Also, the calibration pattern should be properly sized so that both cameras can see it clearly at the same time. Checkerboards can be generated [here](https://calib.io/pages/camera-calibration-pattern-generator).
 
-### Install required packages**
+### Install required packages
 
 This package uses ```python3.8```. Other versions might result in issues. Only tested on Linux.
 
@@ -139,7 +139,8 @@ My coding partner came looking for food. Enjoy my hamster, Milky, whose contribu
 ## Additions after Fork
 
 - added checkerboard PDF
+- added script to list all webcams on current system
 
-### Used mini-cam
+### Testen Cam
 
 - [Mini USB Cam](https://www.hbvcamera.com/1MP-%20HD-usb-cameras/hbvcam-ov9726-720p-hd-otg-free-driver-pc-webcam-camera-module.html)
